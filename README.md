@@ -1,9 +1,11 @@
 ## Hi,
+
 I'm Himel, graduated from Green University of Bangladesh, with hands-on professional experience in backend and frontend development, and independent research in machine learning and blockchain-based distributed systems. I enjoy building things that are useful, well-structured, and grounded in solid engineering principles.
 
 ---
 
 ## About Me
+
 I have worked as a backend developer at Ragnets Software Ltd and as a frontend developer at Iching Software Lab, where I contributed to production ERP systems, REST APIs, and component-based frontend applications. Alongside my professional work, I conducted research that led to two systems I am genuinely proud of — PhishGuard, an ML-based phishing detection framework, and the DL-GBC consensus framework built on Hyperledger Fabric, which was accepted at IEEE QPAIN 2026.
 
 I am comfortable working across four areas — software development, machine learning, cybersecurity, and blockchain — and I am always looking to learn and contribute meaningfully in any of them.
@@ -11,13 +13,21 @@ I am comfortable working across four areas — software development, machine lea
 ---
 
 ## Technical Skills
+
 **Languages:** TypeScript, JavaScript, Python, Java, HTML, CSS
+
 **Backend:** NestJS, Node.js, REST APIs, JWT Authentication, Swagger, TypeORM
+
 **Frontend:** Vue.js 3, Quasar Framework, Pinia, ReactJS
+
 **Database:** MySQL, MongoDB, LevelDB
+
 **Machine Learning:** Scikit-learn, Ensemble Learning, Feature Engineering, Large-Scale Data Preprocessing, Model Optimization
+
 **Blockchain & Distributed Systems:** Hyperledger Fabric (v2.2+), Gossip Protocol, Smart Contracts, gRPC, Merkle Trees, Raft Consensus
+
 **Cybersecurity:** Phishing Detection, URL Security Analysis, Heuristic Detection, Homograph Attack Analysis, Threat Intelligence
+
 **Tools & DevOps:** Git, GitHub, GitHub Actions, Postman, Linux, VS Code, MySQL Workbench, Vercel
 
 ---
