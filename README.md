@@ -35,20 +35,23 @@ I am comfortable working across four areas — software development, machine lea
 ## Professional Experience
 
 **Backend Developer — Ragnets Software Ltd** (Nov 2024 – Apr 2025)
-I Worked remotely as a backend developer, starting with JavaScript and progressing through TypeScript, Node.js, and NestJS. Built the Metro Rail App — a full backend system covering user management, rail schedules, OTPauthentication, and QR-based journey tracking. Contributed to HRMS and ERP modules and wrote Swagger documentation for all developed APIs.
+
+I worked remotely as a backend developer, starting with JavaScript and progressing through TypeScript, Node.js, and NestJS. Built the Metro Rail App — a full backend system covering user management, rail schedules, OTPauthentication, and QR-based journey tracking. Contributed to HRMS and ERP modules and wrote Swagger documentation for all developed APIs.
+
 Stack: TypeScript, NestJS, Node.js, MySQL, REST APIs, Swagger, Postman
 
 ---
 
 **Frontend Developer — Iching Software Lab** (Nov 2025 – Feb 2025)
 
-Worked on the frontend of an ERP product suite, building a Restaurant Management and Retail POS system using Vue.js 3 and Quasar Framework. Handled authentication, item management, order processing, and invoice generation. Also contributed to the backend HRMS module using NestJS.
+I worked on the frontend of an ERP product suite, building a Restaurant Management and Retail POS system using Vue.js 3 and Quasar Framework. Handled authentication, item management, order processing, and invoice generation. Also contributed to the backend HRMS module using NestJS.
+
 Stack: Vue.js 3, Quasar, Pinia, NestJS, JavaScript, HTML, CSS, Git
 
 ---
 
 **Researcher & Thesis Author — Green University of Bangladesh** (Jan 2025 – Jan 2026)
 
-Conducted independent research across two domains. On the blockchain side, designed the DL-GBC Framework on Hyperledger Fabric, achieving 4,000 TPS with sub-100ms latency through multi-round gossip optimization and deterministic leader selection. On the ML side, built PhishGuard — a phishing detection system trained on 1.5 million URLs, achieving 99%+ accuracy and an AUC of 0.9995 using ensemble learning.
+I conducted independent research across two domains. On the blockchain side, designed the DL-GBC Framework on Hyperledger Fabric, achieving 4,000 TPS with sub-100ms latency through multi-round gossip optimization and deterministic leader selection. On the ML side, built PhishGuard — a phishing detection system trained on 1.5 million URLs, achieving 99%+ accuracy and an AUC of 0.9995 using ensemble learning.
 
 Stack: Python, Hyperledger Fabric, gRPC, LevelDB, Scikit-learn, Ensemble ML
