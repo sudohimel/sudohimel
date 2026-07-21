@@ -14,7 +14,7 @@ I'm Himel, graduated from Green University of Bangladesh, with hands-on professi
 
 ---
 
-**Portfolio:** [Profile Himel](profilehimel.vercel.app)
+**Portfolio:** [Profile Himel](https://profilehimel.vercel.app/)
 
 **Linkedin:** [Sudo-Himel](https://www.linkedin.com/in/sudo-himel/)
 
