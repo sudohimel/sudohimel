@@ -14,11 +14,7 @@ I'm Himel, graduated from Green University of Bangladesh, with hands-on professi
 
 ---
 
-**Portfolio:** [Profile Himel](https://profilehimel.vercel.app/)
-
-**Linkedin:** [Sudo-Himel](https://www.linkedin.com/in/sudo-himel/)
-
-**Publications:** [DL-GBC](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DL-GBC&btnG=)
+**Publications:** [DL-GBC: A Framework for Low-Latency and High-Throughput Industrial Cyber-Physical Systems](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DL-GBC&btnG=)
 
 ---
 
